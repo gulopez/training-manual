@@ -142,5 +142,5 @@ Congratulations! You should now have a working version of Git and a text editor 
 
 - **[github.com/explore](https://www.github.com/explore)** - Explore is a showcase of interesting projects in the GitHub Universe. See something you want to re-visit? Star the repository to make it easier to find later.
 
-- Gus
+- **Gus
 - **[lab.github.com](https://lab.github.com)** - The Learning Lab bot will guide you through projects and provide feedback right from your GitHub repository, helping you build every step of the way.
